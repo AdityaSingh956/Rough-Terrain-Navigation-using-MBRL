@@ -1,2 +1,4 @@
 # Rough-Terrain-Navigation-using-MBRL
 This project develops a robust model-based reinforcement learning framework for long-horizon trajectory planning of wheeled robots in rough, unstructured terrain under significant model uncertainty. By combining uncertainty-aware dynamics learning, closed-loop prediction, and divergence-constrained optimization, the approach prevents planners from exploiting model errors and enables dynamically feasible, non-myopic navigation. The result is more reliable and strategically effective autonomous traversal in challenging environments such as off-road, disaster-response, and exploratory settings.
+
+The Final report is also uploaded in repo and can also be accessed using [Scientific Report](https://github.com/AdityaSingh956/Rough-Terrain-Navigation-using-MBRL/blob/main/Rough_Terrain_MBRL_final_proj.pdf)
